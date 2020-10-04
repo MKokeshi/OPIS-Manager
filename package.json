@@ -43,7 +43,7 @@
     "ng5-slider": "^1.2.4",
     "popper": "^1.0.1",
     "popper.js": "^1.16.1",
-    "rxjs": "^6.5.4",
+    "rxjs": "^6.6.3",
     "serialize-javascript": "^3.1.0",
     "set-value": "^3.0.1",
     "tslib": "^1.10.0",
